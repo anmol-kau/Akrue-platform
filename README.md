@@ -1,2 +1,2 @@
 # Akrue-platform
-Platform for akrue as a part of WIL by Anmol
+Individual development and learning repository for my Akrue software development internship.
